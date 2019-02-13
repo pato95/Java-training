@@ -10,5 +10,5 @@ public class CourseApiDataApplication {
 		SpringApplication.run(CourseApiDataApplication.class, args);
 	}
 
-}
+} 
 

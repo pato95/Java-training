@@ -13,6 +13,6 @@
         <property name="show_sql">true</property>
         <property name="connection_pool_size">1</property>
         
-        <mapping class="pato.dto.UserDetails"/>
+        <mapping class="org.pato.dto.UserDetails"/>
         </session-factory>
 </hibernate-configuration>
